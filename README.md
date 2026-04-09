@@ -9,3 +9,8 @@ A repository showcasing my understanding of Git basics such as staging, commits,
 
 #Reflection
 Git helps manage code changes, avoid conflicts, and enables smooth collaboration.
+
+## Tools Used
+- Git
+- GitHub
+- VS Code
