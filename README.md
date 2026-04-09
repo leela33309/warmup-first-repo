@@ -7,7 +7,7 @@ A repository showcasing my understanding of Git basics such as staging, commits,
 - Branching: main, dev, feature
 - Importance of version control in teams
 
-#Reflection
+##Reflection
 Git helps manage code changes, avoid conflicts, and enables smooth collaboration.
 
 ## Tools Used
